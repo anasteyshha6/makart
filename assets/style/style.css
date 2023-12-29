@@ -1,0 +1,21 @@
+@import url(../fonts/font.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    width: 1300px;
+}
+
+nav {
+    width: 1800px;
+}
